@@ -1,2 +1,3 @@
 # GM
 GMcoin is a currency made in Colombia, made to leverage mining projects in the country, and support it with Colombian minerals.
+Digital active GMcoin with support in Colombian minerals GMcoin (GM) is created by a Colombian company, Gm Holding, specialized in tokenization of projects and exploitation of the mining titles of the Colombian territory, exploitation of minerals such as Gold and Emeralds with their concessions. GMcoin was created to leverage mining activities, mainly on 2 mining titles in the territory of Colombia. GMcoin will be backed 100% with Colombian minerals. GM Holding is: Colombian company specialized in project tokenization, Leverage of companies and mining titles, Leveraging mining projects is easier with blockchain technology.
