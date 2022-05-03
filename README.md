@@ -1,5 +1,7 @@
 What is GM Holding?
 
+WhitePaper: https://gmholding.gitbook.io/whitepaper-gm-holding/
+
 GM Holding is a company legally incorporated in Colombia, the main focus is to introduce companies from traditional sectors in the web3 ecosystem, through tokenization and promotion processes, through exchange platforms and with the objective of offering a simple participation option to companies in Latin America.
 
 GM Holding is the official token of the organization and is used for:
